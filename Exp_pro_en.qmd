@@ -1,0 +1,39 @@
+---
+title: "Professional experiences"
+author: "Moïse Placier"
+published_Date: 10/04/2024
+format:
+  html
+---
+
+
+## Process Engineer Intern in agrofood - [Cuisinons nos paysages](https://cuisinonsnospaysages.org/) (Agriviva)
+### Montpellier (France) August 2024 – February 2025
+
+-   Launched a hot processing workshop for pulses transformation: Defined cooking parameters, implemented HACCP methodology, and planned initial commercial productions.
+
+-   Introduced an automated packaging line: Synchronized and commissioned a linear weigher and vertical bagging machine, developed product-specific programs, and trained staff.
+
+-   Deployed a CMMS solution: Developed a preventive maintenance plan, benchmarked maintenance management software, and operationalized the selected solution.
+
+## Data Scientist Intern - GlaxoSmithKline, [Local Manufacturing Science and Technology](https://be.gsk.com/en-be/)
+### Wavre (Belgium) February – August 2024
+
+-   Implemented a novel NLP-based approach to cluster global process deviations by analyzing root cause description text, providing strategic insights for all GSK manufacturing sites.
+
+-   Developed a PowerBI dashboard to visualize the results.Designed a Python-based algorithm using linear programming to optimize the vaccine formulation, considering constraints such as concentration and volume. Presented the solution for integration into the ERP system.
+
+-   Automated the analysis of chromatographic data to monitor column integrity.Collaborated with global data scientists team to integrate the solution into a cloud-based digital twin, enhancing accessibility for production teams.
+
+## Production Manager / Process Optimization
+### Normandie Arôme, Foucrainville (France) 2019 – 2024
+
+-   Independently managed an industrial unit for the distillation of essential oils from aromatic and medicinal plants.Led and coordinated production teams.
+
+-   Developed a database model and input interface to collect production data,enabling the evaluation of the impact of technical itineraries on yields.
+
+## Medical Research Laboratory Intern - INSERM, France
+
+#### Limoges (2019), [CRIBL](https://www.unilim.fr/recherche/laboratoires/omegahealth/cribl/) (Immunology)
+
+#### Paris (2018), [UMRS 1155](https://www.sorbonne-universite.fr/en/structures-de-recherche/common-and-rare-kidney-diseases) (Nephrology)
