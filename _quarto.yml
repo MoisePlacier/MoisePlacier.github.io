@@ -4,6 +4,7 @@ project:
 
 
 website:
+  google-analytics: "G-B9BQN0XN58"
   sidebar:
     style: "docked"
     search: true
@@ -23,5 +24,5 @@ format:
       dark: darkly
     css: styles.css
     toc: true
-    google-analytics: G-B9BQN0XN58
+    
 
