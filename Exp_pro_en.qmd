@@ -19,9 +19,9 @@ format:
 ## Data Scientist Intern - GlaxoSmithKline, [Local Manufacturing Science and Technology](https://be.gsk.com/en-be/)
 ### Wavre (Belgium) February – August 2024
 
--   Implemented a novel NLP-based approach to cluster global process deviations by analyzing root cause description text, providing strategic insights for all GSK manufacturing sites.
+-   Implemented a novel NLP-based approach to cluster global process deviations by analyzing root cause description text, providing strategic insights for all GSK manufacturing sites. Developed a PowerBI dashboard to visualize the results.
 
--   Developed a PowerBI dashboard to visualize the results.Designed a Python-based algorithm using linear programming to optimize the vaccine formulation, considering constraints such as concentration and volume. Presented the solution for integration into the ERP system.
+-   Designed a Python-based algorithm using linear programming to optimize the vaccine formulation, considering constraints such as concentration and volume. Presented the solution for integration into the ERP system.
 
 -   Automated the analysis of chromatographic data to monitor column integrity.Collaborated with global data scientists team to integrate the solution into a cloud-based digital twin, enhancing accessibility for production teams.
 
@@ -30,7 +30,8 @@ format:
 
 -   Independently managed an industrial unit for the distillation of essential oils from aromatic and medicinal plants.Led and coordinated production teams.
 
--   Developed a database model and input interface to collect production data,enabling the evaluation of the impact of technical itineraries on yields.
+-   Developed a nocode web application using Glide to create a database model and an intuitive input interface for collecting production data. This tool enables the evaluation of the impact of technical and agronomic parameters on essential oil yields. In parallel, performed machine learning analyses using a Random Forest Regressor combined with SHAP values to interpret and quantify the influence of process and agronomic variables on yield performance.
+
 
 ## Medical Research Laboratory Intern - INSERM, France
 
