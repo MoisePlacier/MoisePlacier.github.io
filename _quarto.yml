@@ -2,7 +2,6 @@ project:
   type: website
   output-dir: docs
 
-
 website:
   google-analytics: "G-B9BQN0XN58"
   sidebar:
@@ -16,6 +15,10 @@ website:
             text: "Professional experiences"
           - href: Educ_en.qmd
             text: "Education"
+      - section: "Machine Learning Projects"
+        contents:
+          - href: Crop_Classification_presentation.qmd
+            text: "Crop Type Classification"
 
 format:
   html:
