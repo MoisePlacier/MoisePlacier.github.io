@@ -1,5 +1,12 @@
 [
   {
+    "objectID": "Educ_en.html",
+    "href": "Educ_en.html",
+    "title": "Education",
+    "section": "",
+    "text": "Berliner Hochschule für Technik - (Berlin, Germany ) - Academic Exchange : M.Sc. Data Science 2025\nRegression, Machine learning, Data Science workflow, Natural Language Processing, Data visualisation\n\nHochschule für Wirtschaft und Recht - (Berlin, Germany ) - mars 2025 - avr. 2025\nGerman language and literature\n\n\n\nÉcole Nationale Supérieure Agronomique de Toulouse (ENSAT) - ( Toulouse, France ) 2022-2025\nGraduate School accessible through a competitive entrance exam, offering a comprehensive Master’s-level Engineering Degree with a focus on life sciences, agriculture, food sciences, environmental sciences, data science, project management, and production systems analysis.\n\n\nPreparatory Classes for Grandes Écoles - BCPST (Chaptal, Paris, France ) - 2020 à 2022\nA highly selective two-year intensive program designed to prepare students for competitive entrance exams to France’s top engineering schools (Grandes Écoles). The BCPST track focuses on advanced studies in Biology, Chemistry, Physics, Earth Sciences, and Mathematics. This rigorous program emphasizes analytical thinking, problem-solving, and academic excellence.\n\n\nHigh School Diploma -Baccalauréat ( Évreux, France ) 2020\nScientific Baccalauréat with a focus on Life and Earth Sciences, graduated with high honors"
+  },
+  {
     "objectID": "Exp_pro_en.html",
     "href": "Exp_pro_en.html",
     "title": "Professional experiences",
@@ -33,13 +40,6 @@
     "title": "Professional experiences",
     "section": "Medical Research Laboratory Intern - INSERM, France",
     "text": "Medical Research Laboratory Intern - INSERM, France\n\nLimoges (2019), CRIBL (Immunology)\n\n\nParis (2018), UMRS 1155 (Nephrology)"
-  },
-  {
-    "objectID": "Educ_en.html",
-    "href": "Educ_en.html",
-    "title": "Education",
-    "section": "",
-    "text": "Berliner Hochschule für Technik - (Berlin, Germany ) - Academic Exchange : M.Sc. Data Science 2025\nRegression, Machine learning, Data Science workflow, Natural Language Processing, Data visualisation\n\nHochschule für Wirtschaft und Recht - (Berlin, Germany ) - mars 2025 - avr. 2025\nGerman language and literature\n\n\n\nÉcole Nationale Supérieure Agronomique de Toulouse (ENSAT) - ( Toulouse, France ) 2022-2025\nGraduate School accessible through a competitive entrance exam, offering a comprehensive Master’s-level Engineering Degree with a focus on life sciences, agriculture, food sciences, environmental sciences, data science, project management, and production systems analysis.\n\n\nPreparatory Classes for Grandes Écoles - BCPST (Chaptal, Paris, France ) - 2020 à 2022\nA highly selective two-year intensive program designed to prepare students for competitive entrance exams to France’s top engineering schools (Grandes Écoles). The BCPST track focuses on advanced studies in Biology, Chemistry, Physics, Earth Sciences, and Mathematics. This rigorous program emphasizes analytical thinking, problem-solving, and academic excellence.\n\n\nHigh School Diploma -Baccalauréat ( Évreux, France ) 2020\nScientific Baccalauréat with a focus on Life and Earth Sciences, graduated with high honors"
   },
   {
     "objectID": "Crop_Classification_presentation.html",
@@ -89,12 +89,5 @@
     "title": "Project Crop classification",
     "section": "Authors",
     "text": "Authors\nGiovanni Setaro - Github\nNoé Coursimaux - Github\nMoïse Placier - Github"
-  },
-  {
-    "objectID": "Crop_Classification_presentation.html#footnotes",
-    "href": "Crop_Classification_presentation.html#footnotes",
-    "title": "Project Crop classification",
-    "section": "Footnotes",
-    "text": "Footnotes\n\n\nB, C=4, T, H, W↩︎"
   }
 ]
