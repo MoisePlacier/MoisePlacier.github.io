@@ -9,16 +9,15 @@ website:
     search: true
     title: "Moïse Placier Porfolio"
     contents:
-      - section: "curriculum vitae : english"
+      - section: "curriculum vitae"
         contents:
           - href: Exp_pro_en.qmd
             text: "Professional experiences"
           - href: Educ_en.qmd
             text: "Education"
-      - section: "Machine Learning Projects"
-        contents:
-          - href: Crop_Classification_presentation.qmd
-            text: "Crop Type Classification"
+
+      - href: Crop_Classification_presentation.qmd
+        text: "Project Crop Type Classification"
 
 format:
   html:
